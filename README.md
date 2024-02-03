@@ -7,6 +7,7 @@ TODO-Lists
 
 # Language  
 back-end language: java  
-front-end language: java springboot  
+java springboot  
 framework: react/vue  
 Database: postgreSQL  
+front-end language: dont know
